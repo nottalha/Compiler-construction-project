@@ -5,7 +5,7 @@ This is lab project of Compiler Construction
 ### Contributers 
     Talha Maqsood
     Ahmed siddique 
-    Ayesha 
+    Ayesha Yonus
 
 ### Scoop
     
